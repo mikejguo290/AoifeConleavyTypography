@@ -1,4 +1,9 @@
 @font-face {
+  font-family:'Croissant One';
+  src: url('./fonts/CroissantOne-Regular.ttf')
+}
+
+@font-face {
   font-family: 'Work Sans';
   font-style: normal;
   font-weight: 400;

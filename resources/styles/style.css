@@ -76,6 +76,7 @@ html {
     letter-spacing: 2px;
 
     font-weight: 500;
+    font-family: 'Work Sans';
   }
   
   .banner h1 {
@@ -83,6 +84,7 @@ html {
     font-size: 11rem;
 
     font-weight: 900;
+    font-family: 'Abril Fatface';
   }
   
   @media only screen and (max-width: 750px) {
@@ -111,6 +113,8 @@ html {
     padding: 0 25% 4rem 25%;
     background-color: rgb(254, 231, 218);
     color: #4a4a4a;
+
+    font-family: 'Work Sans';
   }
   
   .photo {
@@ -132,6 +136,8 @@ html {
   
   .photo .caption {
     font-style: italic;
+    
+    font-family: 'Merriweather';
   }
   
   .photo.first {
